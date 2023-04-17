@@ -1,0 +1,5 @@
+{
+  "name": "React App: test build",
+  "description": "Test build react app",
+  "filePatterns": ["package.json$", "package-lock.json$"]
+}
